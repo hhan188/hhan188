@@ -1,3 +1,5 @@
+![Metrics](https://raw.githubusercontent.com/hhan188/hhan188/main/github-metrics.svg)
 
-### Hi there 👋
-I'm Hanieh, a Java Backend Developer...
+I am a Software Engineer with 5+ years of experience in Java backend development and microservices. Skilled in Spring Boot, Kafka, REST APIs, SQL/NoSQL, Docker, Kubernetes, and cloud technologies, I have delivered scalable, high-performance systems serving thousands of users.
+
+With a Master’s in Project Management, I bring both technical expertise and strategic insight, enabling me to build reliable solutions while driving projects that create real impact. Currently based in Canada and open to backend engineering opportunities across Canada.I am a Software Engineer with 5+ years of experience in Java backend development and microservices. Skilled in Spring Boot, Kafka, REST APIs, SQL/NoSQL, Docker, Kubernetes, and cloud technologies, I have delivered scalable, high-performance systems serving thousands of users. With a Master’s in Project Management, I bring both technical expertise and strategic insight, enabling me to build reliable solutions while driving projects that create real impact. Currently based in Canada and open to backend engineering opportunities across Canada.
