@@ -1,4 +1,6 @@
-![Metrics](https://raw.githubusercontent.com/hhan188/hhan188/main/github-metrics.svg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/hhan188/hhan188/main/github-metrics.svg" alt="GitHub Metrics" />
+</div>
 
 <h1 align="center">Hi there 👋, I'm Hanieh</h1>
 <h3 align="center">💻 Java Backend Developer | ☁️ Cloud & Microservices Enthusiast | 📍 Based in Canada</h3>
@@ -8,24 +10,24 @@
 ### 🚀 About Me
 
 I’m a **Software Engineer** with over **5 years of experience** in **Java backend development** and **microservices architecture**.  
-I’m passionate about building scalable, high-performance systems and crafting clean, reliable code.
+I’m passionate about designing **scalable**, **high-performance systems** and writing **clean, reliable code**.
 
 🎯 **Core Skills:**
-- Java, Spring Boot, REST APIs  
+- Java, Spring Boot, RESTful APIs  
 - Kafka, SQL/NoSQL Databases  
 - Docker, Kubernetes  
-- Cloud technologies (AWS, GCP)  
-- CI/CD, Microservices, Agile
+- Cloud Platforms (AWS, GCP)  
+- CI/CD Pipelines, Microservices, Agile Methodologies
 
 🎓 **Education:**  
-Master’s in *Project Management* (Industrial Management, Tehran University)
+Master’s in *Project Management* — Industrial Management, **University of Tehran**
 
 🌎 **Currently:**  
-Based in **Canada**, actively seeking new **Backend Engineering** opportunities across the country.
+Based in **Canada**, open to **Backend Engineering** opportunities across the country.
 
 ---
 
-### 🌟 My Values
+### 🌟 My Philosophy
 > “Code is more than logic — it’s a craft that blends precision, clarity, and creativity.”
 
 ---
@@ -42,4 +44,4 @@ Based in **Canada**, actively seeking new **Backend Engineering** opportunities 
 
 ---
 
-⭐️ *Thanks for visiting my profile! Feel free to connect — I’d love to collaborate or just talk tech.*  
+⭐️ *Thanks for visiting my profile! Feel free to connect — I’d love to collaborate or just talk tech.*
